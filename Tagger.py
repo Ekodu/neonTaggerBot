@@ -23,7 +23,7 @@ emj = ['😇','🥰','😎','🤩','😍','👾','🤡','🥳','😻','😼','�
 # Əkmə Oğlum...!!!
 
 #  güzel isimler...!!! 
-cumle = ['Üzümlü kekim ✨', 'Nar çiçeği ✨', 'Papatya 🌼', 'Karanfil ✨', 'Gül 🌹', 'Ayıcık 🐻', 'Mutlu pandam 🐼', 'Ay parem ✨', 'Ballı lokmam ✨', 'Bebişim 🥰', 'Lale 🌷', 'Zambak ⚜', 'Nergis ✨', 'Sümbül ☘️', 'Nilüfer ☘️', 'Menekşe ⚜️', 'Lavanta ✨', 'Gül pare ✨', 'Reyhan 🌷', 'Kaktüs ⚜️', 'Böğürtlen ☘️', 'Orkide ☘️', 'Manolya ✨', 'Ayçiçeği ✨', 'Tweety ⚜️', 'Star ✨', 'Yonca 🍀', 'Ateş böceği ✨',]
+cumle = ['Gözəlim ✨', 'Nar çiçəyim ✨', 'Papatyam 🌼', 'Qərənfilim ✨', 'Gülüm 🌹', 'Ayıcık 🐻', 'Sevimli pandam 🐼', 'Ay parəm ✨', 'Ballı lokmam ✨', 'Bebişim 🥰', 'Laləm 🌷', 'Sevimlim ⚜', 'Gözəlçəm ✨', 'Hərşeyim ☘️', 'Birdənəm ☘️', 'Mələyim ⚜️', 'Şirinim ✨', 'Ömrüm ✨', 'Canım 🌷', 'Canımın içi ⚜️', 'Günəşim ☘️', 'Həyatım ☘️', 'Həyatımın mənası ✨', 'Gözümün ışığı ✨', 'Balım ⚜️', 'Çiçəyim ✨', 'Nəfəsim 🍀', 'Canımın içi ✨',]
 #  güzel isimler...!!!
 
 @client.on(events.NewMessage(pattern='^(?i)/cancel'))
