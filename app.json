@@ -1,7 +1,7 @@
 {
-  "name": "Yarasa Tagger Bot",
-  "logo":"https://telegra.ph/file/133b9125da464d1db6fca.jpg",
-  "description": "Yarasa Tagger ÜCRETSİZ ŞEKILDE GRUBUNUZDA ÜYELERI ETIKETLEYE BILIR.",
+  "name": "Neon Tagger Bot",
+  "logo":"https://te.legra.ph/file/aed3d667829134149274e.jpg",
+  "description": "Neon Tagger ÜCRETSİZ ŞEKILDE GRUBUNUZDA ÜYELERI ETIKETLEYE BILIR.",
   "env": {
     "TOKEN": {
       "description": "@botfather Vasitesi ile Ala Bilersen(Gerekli)",
